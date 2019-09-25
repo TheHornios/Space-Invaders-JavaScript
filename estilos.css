@@ -1,0 +1,5 @@
+body{background-color:#242424}
+html{overflow: hidden}
+div { background-repeat: no-repeat}
+h1{display: block;}
+iframe {transform:scaleX(1) scaleY(0.8);display: inline}
